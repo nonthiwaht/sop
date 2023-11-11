@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/nonthiwaht/IdeaProjects/sop/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/nonthiwaht/IdeaProjects/sop/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/nonthiwaht/IdeaProjects/sop/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\nonthiwaht\\IdeaProjects\\sop\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\nonthiwaht\\IdeaProjects\\sop\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/nonthiwaht/IdeaProjects/sop/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/nonthiwaht/IdeaProjects/sop/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/nonthiwaht/IdeaProjects/sop/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\nonthiwaht\\IdeaProjects\\sop\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
